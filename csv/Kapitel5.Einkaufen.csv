@@ -1,0 +1,155 @@
+Lebensmittel,	,"Groceries, Food"
+"der Apfel,",	,apple
+der Aufschnitt,	,cold cuts
+"die Banane, -n",	,banana
+"das Bier, -e",	,beer
+der Blumenkohl,	,cauliflower
+der Brokkoli,	,broccoli
+"das Brot, -e",	,(loaf of) bread
+"das Brötchen, -",	,roll
+die Butter,	,butter
+"das Ei, -er",	,egg
+das Eis,	,ice cream; ice
+"die Erdbeere, -n",	,strawberry
+das Fleisch,	,meat
+das Gemüse,	,vegetables
+"das Getränk, -e",	,drink
+"die Gurke, -n",	,cucumber
+das Hähnchen,	,chicken
+der/das Joghurt,	,yogurt
+"die Karotte, -n",	,carrot
+"die Kartoffel, -n",	,potato
+der Käse,	,cheese
+"der Keks, -e",	,cookie
+"der Kuchen, -",	,cake
+die Milch,	,milk
+"die Möhre, -n",	,carrot
+"das Müsli, -",	,granola; cereal
+das Obst,	,fruit
+der Pfeffer,	,pepper
+das Rindfleisch,	,beef
+"der Saft, e",	,juice
+das Salz,	,salt
+"der Schinken, -",	,ham
+"das Schnitzel, -",	,cutlet
+das Schweinefleisch,	,pork
+der Tee,	,tea
+"die Tomate, -n",	,tomato
+"die Traube, -n",	,grape
+das Wasser,	,water
+"die Wurst, e",	,sausage
+"das Würstchen, -",	,small sausage
+der Zucker,	,sugar
+Geschäfte,	,"Stores, Shops"
+"die Apotheke, -n",	,pharmacy
+"die Bäckerei, -en",	,bakery
+"die Drogerie, -n",	,toiletries and sundries store
+"die Konditorei, -en",	,pastry shop
+"der Laden,",	,store
+"der Bioladen,",	,natural-foods store
+"der Getränkeladen,",	,beverage store
+"der Markt, e",	,"(open-air) market, marketplace"
+"die Metzgerei, -en",	,butcher shop
+"der Obst- und Gemüsestand, e",	,fruit and vegetable stand
+"der Supermarkt, e",	,supermarket
+Kleidungssticke,	,Articles of Clothing
+"der Anzug, e",	,suit
+"der Badeanzug, e",	,bathing suit
+"die Bluse, -n",	,blouse
+"der Gürtel, -",	,belt
+"das Hemd, -en",	,shirt
+"die Hose, -n",	,"pants, trousers"
+"die Badehose, -n",	,swim trunks
+"der Hut, e",	,hat
+"die Jacke, -n",	,jacket
+die Jeans (pl.),	,jeans
+die Klamotten (pl.),	,rags (slang for clothing)
+"das Kleid, -er",	,dress
+"die Krawatte, -n",	,necktie
+"der Mantel,",	,coat
+"die Mütze, -n",	,cap
+"der Pullover, -",	,pullover sweater
+"der Rock, e",	,skirt
+"der Schal, -s",	,scarf
+"der Schlips, -e",	,necktie
+"der Schuh, -e",	,shoe
+"der Hausschuh, -e",	,slipper
+"der Tennisschuh, -e",	,tennis shoe
+"die Socke, -n",	,sock
+"der Stiefel, -",	,boot
+"das T-Shirt, -s",	,T-shirt
+Sonstige Substantive,	,Other Nouns
+das Abendessen,	,evening meal
+"die Brille, -n",	,(pair of) eyeglasses
+"die Farbe, -n",	,color
+das Frühstück,	,breakfast
+"die Größe, -n",	,size
+"die Kasse, -n",	,"cash register; check-out, cashier"
+"der Koffer, -",	,suitcase
+"der Kunde (-n masc.), -n / die Kundin, -nen",	,customer
+"das Medikament, -e",	,medicine
+das Mittagessen,	,midday meal; lunch
+"der Rucksack, e",	,backpack
+"die Tasche, -n",	,"handbag, purse"
+"der Verkäufer, - / die Verkäuferin, -nen",	,salesperson
+die Zahnpasta,	,toothpaste
+Farben,	,Colors
+"beige, blau, braun",	,"beige, blue, brown"
+"gelb, grau, grün",	,"yellow, gray, green"
+"lila, orange, rot",	,"purple, orange, red"
+"schwarz, weiß",	,"black, white"
+Verben,	,Verbs
+an•probieren,	,to try on
+danken (+ dat.),	,to thank
+empfehlen (empfiehlt),	,to recommend
+gefallen (gefällt) (+ dat.),	,to be pleasing to
+Wie gefällt Ihnen ...?,	,How do you like . . . ?
+gehören (+ dat.),	,to belong to (a person)
+glauben,	,to believe
+helfen (hilft) (+ dat.),	,to help
+hoffen,	,to hope
+mit•nehmen (nimmt mit),	,to take along
+nehmen (nimmt),	,to take
+passen (+ dat.),	,to fit
+schenken,	,to give (as a gift)
+schmecken (+ dat.),	,to taste (good)
+stehen (+ dat.),	,to look good (on a person)
+Die Farbe steht mir.,	,The color looks good on me.
+tragen (trägt),	,to wear; to carry to
+um•tauschen,	,exchange
+zahlen,	,to pay
+zeigen,	,to show
+Adjektive und Adverbien,	,Adjectives and Adverbs
+bunt,	,colorful
+frisch,	,fresh(ly)
+gestreift,	,striped
+kariert,	,plaid
+schick,	,stylish(ly)
+sicher,	,sure(ly)
+ziemlich,	,"somewhat, rather, fairly"
+Dativpronomen,	,Dative Pronouns
+mir,	,(to/for) me
+dir,	,(to/for) you (informal sg.)
+ihm,	,(to/for) him/it
+ihr,	,(to/for) her/it
+uns,	,(to/for) us
+euch,	,(to/for) you (informal pl.)
+ihnen,	,(to/for) them
+Ihnen,	,(to/for) you (formal)
+Dativpräpositionen,	,Dative Prepositions
+aus,	,"from; out of, (made) of"
+bei,	,at; near; with
+mit,	,with; by means of
+nach,	,after; to
+seit,	,since; for (+ time)
+von,	,of; from; by
+zu,	,to; at; for
+Sonstiges,	,Other
+das macht . . .,	,that comes to . . .
+egal: Das ist mir egal.,	,I don't care.
+jeder,	,"each, every"
+nach Hause,	,(to) home
+selbstverständlich,	,"of course, naturally"
+wem?,	,(to/for) whom?
+wohin?,	,(to) where?
+zu Hause,	,at home
